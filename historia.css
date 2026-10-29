@@ -1,0 +1,5 @@
+.historia_musica{
+    display: flex;
+    flex-direction: column;
+    margin:40px 350px 30px 350px;
+}
